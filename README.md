@@ -32,7 +32,6 @@ The "Wine Quality Data" dataset contains information about wine characteristics 
 - Matplotlib
 - Seaborn
 - Plotly Express
-- Statsmodels
 - sklearn.tree
 - Jupyter Notebook
 
